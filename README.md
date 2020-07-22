@@ -19,6 +19,6 @@ The purpose of this project is to investigate and visualise data using several d
 
 &nbsp;&nbsp;&nbsp;<img src="images/violin_plot.png" width="500">
 
-### Dataset
+### Data Sources
 - [Australian Energy Statistics](https://www.energy.gov.au/government-priorities/energy-data/australian-energy-statistics)
 - Twitter
