@@ -1,13 +1,14 @@
 # Exploratory data analysis and visualisation
 
 ### Purpose
-The purpose of this project is to investigate and visualise data using several data science tools. The statistics related to all electricity generation in Australia is explored primarily through visualisation with tools such as motion chart and linear regression. The pre-processed tweets about bushfires in Australia is also investigated and explored through the process of exploratory data analysis (EDA).
+The purpose of this project is to investigate and visualise data using several data science tools. The statistics related to all electricity generation in Australia is explored primarily through visualisation with tools such as `motion chart` and `linear regression`. The pre-processed tweets about bushfires in Australia is also investigated and explored through the process of exploratory data analysis (EDA).
 
 ### Version
 1 May 2020
 
 ### User Instructions
-
+- The Python code written to analyse and plot the data is a Jupyter notebook file. To run the Jupyter notebook file, `energy_data.xlsx` and `twitter_data.csv` should be placed in the same location as `Exploratory-Data-Analysis.ipynb`. 
+- Alternatively, it can be viewed in `Exploratory-Data-Analysis.html` or `Exploratory-Data-Analysis.pdf`.
 
 ### Interesting Findings
 - Energy dataset: As you can see from the motion chart below, the reliance on Wind increased significantly from 2009 to 2018 in South Australia, while that on Natural gas had been stagnant. On the other hand, the reliance on Natural gas continuously increased over time in Western Australia, while that on Wind fluctuated during the same time.</br>
